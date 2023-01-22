@@ -78,7 +78,7 @@ def view_record():
         dob.set_date(date);stream_strvar.set(selection[6])
 
 
-# Initializing the GUI window
+# Starts the GUI window
 main = Tk()
 main.title('DataFlair School Management System')
 main.geometry('1000x600')
